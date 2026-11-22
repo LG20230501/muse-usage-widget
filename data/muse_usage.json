@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-22T10:02:11+08:00",
+  "updated_at": "2026-11-23T07:28:08+08:00",
   "source": "subscription-status",
   "plan": "Free",
-  "percent_used": 80,
+  "percent_used": 85,
   "resets_at": "2026-11-24T07:36:00+08:00",
   "resets_at_text": "11-24 07:36",
   "additional_tokens": {
